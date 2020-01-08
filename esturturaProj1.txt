@@ -1,0 +1,15 @@
+Estrutura do projeto 1
+
+/~python-web
+    |-- aulas                    # Arquivos usados nas aulas
+    |-- .flaskenv                # Arquivos para setar as variaveis de ambiente
+    |-- .gitignore               # Arquivos e diretorios não adicionados no git
+    |-- controle_documento.py    # Modulos para rodar a aplicação
+    |-- requeriments.txt         # Dependencias do projeto
+    |__ /tutorial-env            # Ambiente Virtual Python
+        |__ /app                     # Pacote de aplicação web
+            |--__init__.py
+            |-- routes.py            # Definição das rotas da aplicação
+            |__ ...
+    |__ ..
+|__ .
